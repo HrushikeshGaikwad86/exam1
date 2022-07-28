@@ -1,0 +1,22 @@
+{
+  "name": "exam1",
+  "version": "1.0.0",
+  "description": "exam sdm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HrushikeshGaikwad86/exam1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HrushikeshGaikwad86/exam1/issues"
+  },
+  "homepage": "https://github.com/HrushikeshGaikwad86/exam1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
